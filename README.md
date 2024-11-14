@@ -75,7 +75,7 @@
 src='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F62oka2478bfb1.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 
 
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://64.media.tumblr.com/4158d623c90b568d8f5841be4c94a066/86ee54b15e5ed2fb-c2/s540x810/4ae9bad120130e1922b1564c8e186f6b76c83e64.gif" alt="top langs" />
     
 </div>
 
