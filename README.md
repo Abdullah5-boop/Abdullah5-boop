@@ -73,6 +73,9 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
 <!--     <img height='64' style='border:0px;height:64px;' 
 src='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F62oka2478bfb1.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
+
+
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     
 </div>
 
