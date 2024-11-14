@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://64.media.tumblr.com/2e0ef201e1fc451f121b82100d68ade2/86ee54b15e5ed2fb-a0/s540x810/d5f4a7af1c30d7dd8a966391a9bbf070dc17bff4.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://64.media.tumblr.com/4158d623c90b568d8f5841be4c94a066/86ee54b15e5ed2fb-c2/s540x810/4ae9bad120130e1922b1564c8e186f6b76c83e64.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
