@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently a University student**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m  *Data scientist, Web developer, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **python, Node.js, React, Firebase... or anything [here](abdullahalmahmood500@gmail.com)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact ** The first programmer was a woman  **
 
  </div>
  
